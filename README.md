@@ -12,14 +12,14 @@ __Lyhyt selvitys, mitä repositoriossa on:__
 
 Git-versionhallinta -kurssin tehtävät.
 
-Sisältää tiedostot:
+Hello hakemisto sisältää tiedostot:
 + index.html
 + scripts.js
 + styles.css
 
 ### Oppimispäiväkirjat
 
-Kaikki oppimispäiväkirjan osat:
+Kaikki oppimispäiväkirjan 1-3 osat löytyvät alta linkkinä sekä 'paivakirjat' hakemistosta:
 
 - [Päiväkirja 1](paivakirjat/paivakirja1.md)
 - [Päiväkirja 2](paivakirjat/paivakirja2.md)
