@@ -13,6 +13,8 @@ Lisäksi tämän päiväkirjan avaus ei olisi onnistunut ilman muiden oppilaiden
 
 Helpointi oli add ja commit komennot koska niitä olin jo käyttänyt. Mutta aikalailla kaikki muu oli uutta.
 
+Lisäsin taulukkoon muitakin komentoja kuin pelkästään git komentoja.
+
 ## Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
@@ -30,11 +32,6 @@ Helpointi oli add ja commit komennot koska niitä olin jo käyttänyt. Mutta aik
 | mv | siirtää tiedoston / hakemiston paikkaa tai nimeää uudelleen |
 | revert | poistaa jo tallennetun tiedoston / hakemiston |
 | mkdir | luo uuden hakemiston |
-
-| --------- | -------- |
-Muita komentoja joita käytin
-| --------- | -------- |
-
 | open | avaa tiedoston, ohjelman, kansion. (open index.html) |
 | ls | listaa hakemiston sisällön. -l listaa kaikki tiedot. -a näyttää myös piillotetut |
 | touch | luo uuden tyhjän tiedoston |

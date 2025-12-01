@@ -36,3 +36,5 @@ Itse ehkä olisin tarvinnut vielä sanallisen selityksen viimeisiin kohtiin. Sek
 Mutta olen tyytyväinen kurssiin. Olen tyytyväinen että valitsin tämän vaikka oli jo hieman taustatietoa. Ja ehkä sen takia tämä varmaan hahmottui näinkin hyvin itselle. Täysin uutena aiheeseen en tiedä miten hyvin olisin hahmottanut.
 Ymmärrys kasvoi paljon ja todellakin voisin suositella kurssia muille.
 Voisikohan teoriasta olla jokin ladattava pdf -tiedosto, jos haluaa teorian itselleen talteen?
+
+Lopputehtävä oli todella hankala. En osannut tehdä sitä ollenkaan ilman chatGPT apua enkä tiedä menikö se vieläkään oikein.
