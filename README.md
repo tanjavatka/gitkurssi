@@ -1,4 +1,4 @@
-## HH : Git -versionhallinta kurssi
+### HH : Git -versionhallinta kurssi
 
 __Kurssin nimi ja toteutuksen koodi:__
 
@@ -12,12 +12,15 @@ __Lyhyt selvitys, mitä repositoriossa on:__
 
 Git-versionhallinta -kurssin tehtävät.
 
+#### Hello 
+
 Hello hakemisto sisältää tiedostot:
+
 + index.html
 + scripts.js
 + styles.css
 
-### Oppimispäiväkirjat
+#### Oppimispäiväkirjat
 
 Kaikki oppimispäiväkirjan 1-3 osat löytyvät alta linkkinä sekä 'paivakirjat' hakemistosta:
 
