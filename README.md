@@ -1,4 +1,4 @@
-# HH : Git -versionhallinta kurssi
+## HH : Git -versionhallinta kurssi
 
 __Kurssin nimi ja toteutuksen koodi:__
 
@@ -21,6 +21,6 @@ Sisältää tiedostot:
 
 Kaikki oppimispäiväkirjan osat:
 
-- [Päiväkirja 1](paivakirjat/pkirja1.md)
-- [Päiväkirja 2](paivakirjat/pkirja2.md)
-- [Päiväkirja 3](paivakirjat/pkirja3.md)
+- [Päiväkirja 1](paivakirjat/paivakirja1.md)
+- [Päiväkirja 2](paivakirjat/paivakirja2.md)
+- [Päiväkirja 3](paivakirjat/paivakirja3.md)
