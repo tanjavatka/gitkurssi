@@ -1,6 +1,8 @@
+# HH : Git -versionhallinta kurssi
+
 __Kurssin nimi ja toteutuksen koodi:__
 
-Git-versionhallinta - SOF013AS2A-3001
+Git -versionhallinta - SOF013AS2A-3001
 
 __Tekijän nimi:__
 
@@ -14,3 +16,11 @@ Sisältää tiedostot:
 + index.html
 + scripts.js
 + styles.css
+
+### Oppimispäiväkirjat
+
+Kaikki oppimispäiväkirjan osat:
+
+- [Päiväkirja 1](paivakirjat/pkirja1.md)
+- [Päiväkirja 2](paivakirjat/pkirja2.md)
+- [Päiväkirja 3](paivakirjat/pkirja3.md)
