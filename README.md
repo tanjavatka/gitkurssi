@@ -9,6 +9,7 @@ Tanja Vatka
 __Lyhyt selvitys, mitä repositoriossa on:__
 
 Git-versionhallinta -kurssin tehtävät.
+
 Sisältää tiedostot:
 + index.html
 + scripts.js
